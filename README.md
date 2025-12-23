@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm HM</h1>
+<h1 align="center">👋 Hi there, I'm HMwancheng</h1>
 
 <p align="center">
   <b>Just an enthusiast scratching my own itches with code.</b><br>
