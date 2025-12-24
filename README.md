@@ -18,14 +18,14 @@
 
 ### 🧐 About Me
 
-- 💻 我不以写代码为生，但**代码**是我的瑞士军刀。（虽然我不会用）
+- 💻 代码是个好东西，**代码**是我的瑞士军刀。（虽然我不会用）
 - 🎯 当我发现现有的软件臃肿、难用时，我会尝试**自己写一个**。（虽然创造出来的东西一般都无法运行）
 - 🛠️ 主要折腾 **Windows 桌面应用** 和 **自动化脚本**。（只有这个，没得选）
 - ⚡ 追求 **轻量 (Lightweight)**、**便携 (Portable)** 和 **原生感 (Native)**。（太大的东西我也整不出来啊）
 
 ---
 
-### 🧰 Tech Stack  (The list of codes that i don't know:)
+### 🧰 Tech Stack  (The list of codes that i don't understand:)
 
 | Windows Dev | Automation | Tools |
 | :---: | :---: | :---: |
