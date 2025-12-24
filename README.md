@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Just an enthusiast scratching my own itches with code.</b><br>
-  非科班出身 · 兴趣使然的开发者 · 效率工具控
+  非专业从事 · 兴趣使然的野鸡开发者 · 基本瞎折腾
 </p>
 
 <div align="center">
